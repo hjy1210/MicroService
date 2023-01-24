@@ -1,0 +1,1 @@
+This project is followed by [.NET Tutorial - Your First Microservice](https://dotnet.microsoft.com/en-us/learn/aspnet/microservice-tutorial/intro)
