@@ -337,3 +337,6 @@ ASALocalRun/
 
 # Visual Studio Code folder
 .vscode/
+
+# Environment
+.env
