@@ -3,7 +3,7 @@ services:
    image: postgres
    restart: always
    environment:
-     POSTGRES_PASSWORD: example
+     POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?database password not set}
    volumes:
      - postgres-data:/var/lib/postgresql/data
  adminer:
